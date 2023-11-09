@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chetanbudhalakoti" target="_blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png)](https://www.svgrepo.com/download/108614/linkedin.svg)" alt="chetanbudhalakoti" height="30" width="40" /></a>
-<a href="https://fb.com/chetan.budhalakoti.189" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://www.svgrepo.com/show/3885/facebook.svg)" alt="chetan.budhalakoti.189" height="30" width="40" /></a>
-<a href="https://instagram.com/chetan_budhalakoti_" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://www.svgrepo.com/show/3142/instagram.svg)" alt="chetan_budhalakoti_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chetanbudhalakoti" target="_blank"><img align="center" src="https://www.svgrepo.com/download/108614/linkedin.svg" alt="chetanbudhalakoti" height="30" width="40" /></a>
+<a href="https://fb.com/chetan.budhalakoti.189" target="_blank"><img align="center" src="https://www.svgrepo.com/show/3885/facebook.svg" alt="chetan.budhalakoti.189" height="30" width="40" /></a>
+<a href="https://instagram.com/chetan_budhalakoti_" target="_blank"><img align="center" src="https://www.svgrepo.com/show/60283/instagram.svg" alt="chetan_budhalakoti_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
