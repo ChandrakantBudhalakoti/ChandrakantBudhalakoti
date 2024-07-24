@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chandrakantbudhalakoti189@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1CfCydaOf47Gz6ERTf8nmMn8E3lScvJwM/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/17MQjZBAXQlgLcnvB8y7jLNSckwwoDjy1/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
