@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, JAVA**
 
-- 👨‍💻 All of my projects are available at [Portfolio 1- ](https://chetan123.netlify.app/) & [Portfolio 2- ](https://chetan-portfolio123.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://chetan123.netlify.app/" target="_blank">Portfolio 1</a> <a href="https://chetan-portfolio123.netlify.app/" target="_blank">Portfolio 2</a>
 
 - 💬 Ask me about **C, Python, HTML, CSS**
 
