@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, JAVA**
 
-- 👨‍💻 All of my projects are available at [Website](https://chetan123.netlify.app/)
+- 👨‍💻 All of my projects are available at [Website](https://chetan123.netlify.app/){:target="_blank"}
 
 - 💬 Ask me about **C, Python, HTML, CSS**
 
