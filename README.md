@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://chetan123.netlify.app/" target="_blank">Portfolio 1</a> & <a href="https://chetan-portfolio123.netlify.app/" target="_blank">Portfolio 2</a>
 
-- 💬 Ask me about **C, Python, HTML, CSS**
+- 💬 Ask me about **JavaScript, Vue.js, TypeScript, React**
 
 - 📫 How to reach me **chandrakantbudhalakoti189@gmail.com**
 
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chetanbudhalakoti" target="_blank"><img align="center" src="https://www.svgrepo.com/download/108614/linkedin.svg" alt="chetanbudhalakoti" height="30" width="40" /></a>
-<a href="https://fb.com/chetan.budhalakoti.189" target="_blank"><img align="center" src="https://www.svgrepo.com/show/3885/facebook.svg" alt="chetan.budhalakoti.189" height="30" width="40" /></a>
-<a href="https://instagram.com/chetan_budhalakoti_" target="_blank"><img align="center" src="https://www.svgrepo.com/show/60283/instagram.svg" alt="chetan_budhalakoti_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chetanbudhalakoti" target="_blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="chetanbudhalakoti" height="30" width="40" /></a>
+<a href="https://fb.com/chetan.budhalakoti.189" target="_blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="chetan.budhalakoti.189" height="30" width="40" /></a>
+<a href="https://instagram.com/chetan_budhalakoti_" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="chetan_budhalakoti_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
