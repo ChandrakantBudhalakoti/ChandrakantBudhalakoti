@@ -18,9 +18,6 @@ Frontend Developer | JavaScript & TypeScript Enthusiast | Building Modern Web Ap
 - 💻 Passionate about building scalable, responsive, and user-friendly web applications
 - 💬 Ask me about **JavaScript, TypeScript, React.js, Vue.js, Next.js**
 - 📫 Reach me at: **chandrakantbudhalakoti189@gmail.com**
-- 🌐 Portfolio:
-  - 🔗 https://chetan123.netlify.app/
-  - 🔗 https://chetan-portfolio123.netlify.app/
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1sVAMyEVZk57qrzs5Ggum4tUc3q1StTmx/view?usp=sharing)
 
 ---
