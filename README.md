@@ -21,7 +21,7 @@ Frontend Developer | JavaScript & TypeScript Enthusiast | Building Modern Web Ap
 - 🌐 Portfolio:
   - 🔗 https://chetan123.netlify.app/
   - 🔗 https://chetan-portfolio123.netlify.app/
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1UeWDDYiFRLil0DnR2ANw6R7I3K0YsIB-/view)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1sVAMyEVZk57qrzs5Ggum4tUc3q1StTmx/view?usp=sharing)
 
 ---
 
